@@ -21,7 +21,8 @@ This project is part of Codebasics Virtual Internship.
 
 ## Dashboard Design
 
-- **Main Page**: *Description or image of the main dashboard page.*
+- **Main Page**:
+ ![KPI](https://github.com/user-attachments/assets/4846c8d8-7a10-438e-a13c-f8e34d065985)
 - **Market Page**: *Description or image of the market page.*
 - **Plans Page**: *Description or image of the plans page.*
 
