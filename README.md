@@ -1,39 +1,39 @@
-# WaveCon_Telecom_Analysis_Power_BI
+# WaveCon Telecom Analysis - PowerBI
 
-This project is done as part of Codebasics Virtual Internship
+This project is part of Codebasics Virtual Internship.
 
-Challenge details - Link
+- **Challenge Details**: [Link](#)
+- **Live Dashboard**: [Link](#)
+- **Presentation Video**: [Link](#)
 
-Live Dashboard - Link
+## Problem Statement
 
-Presentation video - Link
+AtliQo is one of the leading telecom providers in India and launched its 5G plans in May 2022 along with other telecom providers.
 
-Problem statement
-AtliQo is one of the leading telecom providers in India and launched it’s 5G plans in May 2022 along with other telecom providers.
+However, the management noticed a decline in their active users and revenue growth post the 5G launch in May 2022. AtliQo’s business director requested their analytics team to provide a comparison report of KPIs between the pre and post-periods of the 5G launch. The management is keen to compare the performance between these periods and gain insights that would enable them to make informed decisions to recover their active user rate and other key metrics. They also wonder if they can optimize their internet plans to attract more active users. Peter Pandey, a junior data analyst, is assigned to this task.
 
-However, the management noticed a decline in their active users and revenue growth post 5G launch in May 2022. Atliqo’s business director requested their analytics team to provide a comparison report of KPIs between pre and post-periods of the 5G launch. The management is keen to compare the performance between these periods and get insights which would enable them to make informed decisions to recover their active user rate and other key metrics. They also wonder if they can optimize their internet plans to get more active users. Peter Pandey, a junior data analyst is assigned to this task.
+## Task
 
-Task:
-Imagine yourself as Peter Pandey and perform the following task
+Imagine yourself as Peter Pandey and perform the following tasks:
 
-Create the comparison report based on the mock-up provided. Please note the mock-up is created by a business user who has a minimal idea about dashboarding. Hence you need to represent the insights in a much better way
-The target audience of this dashboard is top-level management - hence the dashboard should be self-explanatory and easy to understand
-Create relevant insights not provided in the metric list/mock-up dashboard to support the cause.
+1. Create the comparison report based on the mock-up provided. Note that the mock-up is created by a business user with minimal knowledge of dashboarding, so you need to represent the insights in a more effective way.
+2. The target audience of this dashboard is top-level management; hence, the dashboard should be self-explanatory and easy to understand.
+3. Create relevant insights not provided in the metric list/mock-up dashboard to support the cause.
 
-Data Model
+## Data Model
 
+*Description of the data model used in the analysis.*
 
-Dashboard Design
+## Dashboard Design
 
-main_page
+- **Main Page**: *Description or image of the main dashboard page.*
+- **Market Page**: *Description or image of the market page.*
+- **Plans Page**: *Description or image of the plans page.*
 
-market_page
+## Insights
 
-plans_page
-
-Insights
-Revenue is declined by 0.5 % compared to the previous network, which is mainly caused by Delhi, Chennai, Ahmedabad cities.
-Even though there is a decline in the revenue, ARPU (Average revenue per user) has increased from 190.2 to 211.3 rupees.
-AtliQo maintains third position in the market always without any change.
-Plan 1,2 and 11 are the highly performing plans among all the plans
-Pune has 18% growth in active users despite having 55% increase in the unsubscribed users
+- Revenue has declined by 0.5% compared to the previous network, mainly due to Delhi, Chennai, and Ahmedabad.
+- Despite the decline in revenue, ARPU (Average Revenue Per User) has increased from 190.2 to 211.3 rupees.
+- AtliQo maintains the third position in the market without any change.
+- Plans 1, 2, and 11 are the highest performing plans among all available plans.
+- Pune has seen an 18% growth in active users, despite a 55% increase in unsubscribed users
