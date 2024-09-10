@@ -1,7 +1,6 @@
 # WaveCon_Telecom_Analysis_Power_BI
 
-AtliQo Telecom Analysis - PowerBI
-This project is done as part of the November month codebaiscs resume project challenge
+This project is done as part of Codebasics Virtual Internship
 
 Challenge details - Link
 
