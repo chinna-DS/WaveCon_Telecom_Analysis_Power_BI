@@ -7,8 +7,9 @@ This project is part of Codebasics Virtual Internship.
 
 ## Task
 
-- create a PowerPoint presentation for our telecom client, 'Wavecon,' by thoroughly analyzing the provided dashboard data. The dashboard offers key insights into various aspects of the company's performance
+- analyzing the provided dashboard of our telecom client 'WaveCon'
 - develop a presentation that clearly addresses the following critical questions:
+  1. 
 
 ## Data Model
 
