@@ -9,7 +9,7 @@ This project is part of Codebasics Virtual Internship.
 
 - Analyze the provided dashboard of our telecom client 'WaveCon'
 - Create a presentation that clearly addresses the following critical questions:
-1.  
+1. What is the impact of the 5G launch on our revenue?
 
 ## Data Model
 
