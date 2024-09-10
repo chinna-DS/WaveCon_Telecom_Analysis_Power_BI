@@ -2,7 +2,6 @@
 
 This project is part of Codebasics Virtual Internship.
 
-- **Challenge Details**: [Link](#)
 - **Live Dashboard**: [Link](#)
 - **Presentation Video**: [Link](#)
 
