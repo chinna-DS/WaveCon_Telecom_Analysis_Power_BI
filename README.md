@@ -10,6 +10,10 @@ This project is part of Codebasics Virtual Internship.
 - Analyze the provided dashboard of our telecom client 'WaveCon'
 - Create a presentation that clearly addresses the following critical questions:
 1. What is the impact of the 5G launch on our revenue?
+2. Which KPI is underperforming after the 5G launch?
+3. After the 5G launch, which plans are performing well in terms of revenue? Which plans are not performing well?
+4. Is there any plan affected largely by the 5G launch? Should we continue or discontinue that plan?
+5. Is there any plan that is discontinued after the 5G launch? What is the reason for it?
 
 ## Data Model
 
