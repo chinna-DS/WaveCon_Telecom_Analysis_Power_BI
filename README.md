@@ -7,8 +7,8 @@ This project is part of Codebasics Virtual Internship.
 
 ## Task
 
-- analyzing the provided dashboard of our telecom client 'WaveCon'
-- develop a presentation that clearly addresses the following critical questions:
+- Analyze the provided dashboard of our telecom client 'WaveCon'
+- Create a presentation that clearly addresses the following critical questions:
 1.  
 
 ## Data Model
