@@ -22,11 +22,10 @@ This project is part of AtliQ Technologies Virtual Internship.
 
 ## Dashboard Design
 
-- **KPI Page**:
 ![KPI](https://github.com/user-attachments/assets/4846c8d8-7a10-438e-a13c-f8e34d065985)
-- **Market Page**:
+
 ![Market](https://github.com/user-attachments/assets/5d90206b-7cbb-4d07-9443-7bf49bc868c8)
-- **Plans Page**: 
+
 ![Plan](https://github.com/user-attachments/assets/f71deb23-9a0f-425c-8add-7c7e9d848780)
 
 ## Key Insights
